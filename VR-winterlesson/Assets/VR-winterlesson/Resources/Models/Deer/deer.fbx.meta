@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 50ccb0db5fde347f98efd338a50dd9ba
+timeCreated: 1514027860
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Circle
+    100004: com
+    100006: //RootNode
+    100008: Deer Armature
+    100010: Deer Stag
+    100012: ears.1.L
+    100014: ears.1.R
+    100016: ears.2.L
+    100018: ears.2.L_end
+    100020: ears.2.R
+    100022: ears.2.R_end
+    100024: foreleg.femur.L
+    100026: foreleg.femur.R
+    100028: foreleg.hoof.IK-upper.L
+    100030: foreleg.hoof.IK-upper.L_end
+    100032: foreleg.hoof.IK-upper.R
+    100034: foreleg.hoof.IK-upper.R_end
+    100036: foreleg.hoof.IK.L
+    100038: foreleg.hoof.IK.R
+    100040: foreleg.hoof.L
+    100042: foreleg.hoof.L_end
+    100044: foreleg.hoof.R
+    100046: foreleg.hoof.R_end
+    100048: foreleg.tarsals.L
+    100050: foreleg.tarsals.R
+    100052: foreleg.tibia.L
+    100054: foreleg.tibia.R
+    100056: head
+    100058: head.IK
+    100060: head.IK_end
+    100062: hindleg.femur.L
+    100064: hindleg.femur.R
+    100066: hindleg.hoof.IK.L
+    100068: hindleg.hoof.IK.L_end
+    100070: hindleg.hoof.IK.R
+    100072: hindleg.hoof.IK.R_end
+    100074: hindleg.hoof.L
+    100076: hindleg.hoof.L_end
+    100078: hindleg.hoof.R
+    100080: hindleg.hoof.R_end
+    100082: hindleg.tibia.L
+    100084: hindleg.tibia.R
+    100086: Lamp
+    100088: neck
+    100090: pelvis
+    100092: ribs
+    100094: spine
+    100096: Standard Human Form Height
+    400000: Camera
+    400002: Circle
+    400004: com
+    400006: //RootNode
+    400008: Deer Armature
+    400010: Deer Stag
+    400012: ears.1.L
+    400014: ears.1.R
+    400016: ears.2.L
+    400018: ears.2.L_end
+    400020: ears.2.R
+    400022: ears.2.R_end
+    400024: foreleg.femur.L
+    400026: foreleg.femur.R
+    400028: foreleg.hoof.IK-upper.L
+    400030: foreleg.hoof.IK-upper.L_end
+    400032: foreleg.hoof.IK-upper.R
+    400034: foreleg.hoof.IK-upper.R_end
+    400036: foreleg.hoof.IK.L
+    400038: foreleg.hoof.IK.R
+    400040: foreleg.hoof.L
+    400042: foreleg.hoof.L_end
+    400044: foreleg.hoof.R
+    400046: foreleg.hoof.R_end
+    400048: foreleg.tarsals.L
+    400050: foreleg.tarsals.R
+    400052: foreleg.tibia.L
+    400054: foreleg.tibia.R
+    400056: head
+    400058: head.IK
+    400060: head.IK_end
+    400062: hindleg.femur.L
+    400064: hindleg.femur.R
+    400066: hindleg.hoof.IK.L
+    400068: hindleg.hoof.IK.L_end
+    400070: hindleg.hoof.IK.R
+    400072: hindleg.hoof.IK.R_end
+    400074: hindleg.hoof.L
+    400076: hindleg.hoof.L_end
+    400078: hindleg.hoof.R
+    400080: hindleg.hoof.R_end
+    400082: hindleg.tibia.L
+    400084: hindleg.tibia.R
+    400086: Lamp
+    400088: neck
+    400090: pelvis
+    400092: ribs
+    400094: spine
+    400096: Standard Human Form Height
+    2000000: Camera
+    2300000: Circle
+    2300002: Standard Human Form Height
+    3300000: Circle
+    3300002: Standard Human Form Height
+    4300000: Circle
+    4300002: Deer Stag
+    4300004: Standard Human Form Height
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Deer Stag
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antlers
+    second: {fileID: 2100000, guid: c5496607dcf6a4be898080c5a78af19e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 9f299426dfc63478a9eb92394458b7c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c60002f6dda8e48bc91a5036329535a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nose
+    second: {fileID: 2100000, guid: b69b43e7fc7c34ed3b3078e21d249426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pelt
+    second: {fileID: 2100000, guid: 1732ec019a6b24077af2df48677d3ec9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
